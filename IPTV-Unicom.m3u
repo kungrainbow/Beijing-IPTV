@@ -29,7 +29,7 @@ http://192.168.1.2:23234/rtp/239.3.1.60:8084
 http://192.168.1.2:23234/rtp/239.3.1.172:8001
 #EXTINF:-1 tvg-name="CCTV4",CCTV-4 中文国际[高清]
 http://192.168.1.2:23234/rtp/239.3.1.105:8092
-#EXTINF:-1 tvg-name="CCTV5",CCTV-5 体育[高清]
+#EXTINF:-1 tvg-name="CCTV5",tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png",CCTV-5 体育[高清]
 http://192.168.1.2:23234/rtp/239.3.1.173:8001
 #EXTINF:-1 tvg-name="CCTV5+",CCTV-5+ 体育赛事[高清]
 http://192.168.1.2:23234/rtp/239.3.1.130:8004
