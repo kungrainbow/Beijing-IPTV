@@ -21,11 +21,12 @@ http://192.168.1.2:23234/rtp/239.3.1.189:8000
 http://192.168.1.2:23234/rtp/239.3.1.120:8000
 #EXTINF:-1 tvg-name="该频道节目单尚无",BTV国际频道
 http://192.168.1.2:23234/rtp/239.3.1.235:8000
-#EXTINF:-1 tvg-name="CCTV1",CCTV-1 综合[高清]
+#EXTINF:-1 tvg-name="CCTV1",tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/0/0f/CCTV-1.png",group-title="",CCTV1
 http://192.168.1.2:23234/rtp/239.3.1.129:8008
 #EXTINF:-1 tvg-name="CCTV2",CCTV-2 财经[高清]
 http://192.168.1.2:23234/rtp/239.3.1.60:8084
 #EXTINF:-1 tvg-name="CCTV3",CCTV-3 综艺[高清]
+#EXTINF:-1 tvg-name="CCTV3",tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/34/CCTV-3_Logo.png",group-title="",CCTV3
 http://192.168.1.2:23234/rtp/239.3.1.172:8001
 #EXTINF:-1 tvg-name="CCTV4",CCTV-4 中文国际[高清]
 http://192.168.1.2:23234/rtp/239.3.1.105:8092
@@ -177,7 +178,7 @@ http://192.168.1.2:23234/rtp/239.3.1.102:8001
 http://192.168.1.2:23234/rtp/239.3.1.132:8012
 #EXTINF:-1 tvg-name="东方卫视",东方卫视[高清]
 http://192.168.1.2:23234/rtp/239.3.1.136:8032
-#EXTINF:-1 tvg-name="浙江卫视",浙江卫视[高清]
+#EXTINF:-1 tvg-name="浙江卫视",tvg-logo="http://pic.616pic.com/ys_bnew_img/00/06/11/94iAfXb5yJ.jpg",group-title="",浙江卫视
 http://192.168.1.2:23234/rtp/239.3.1.137:8036
 #EXTINF:-1 tvg-name="江苏卫视",江苏卫视[高清]
 http://192.168.1.2:23234/rtp/239.3.1.135:8028
