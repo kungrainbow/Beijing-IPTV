@@ -329,3 +329,5 @@ http://192.168.1.2:23234/rtp/239.3.1.70:4120
 http://192.168.1.2:23234/rtp/239.3.1.88:4120
 #EXTINF:-1 tvg-name="该频道节目单尚无",魅力时尚
 http://192.168.1.2:23234/rtp/239.3.1.196:9012
+#EXTINF:-1 tvg-id="ViuTV.hk" tvg-name="ViuTV" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="http://aaaa.com.hk/main/wp-content/uploads/2020/02/ViuTV-logo.png" group-title="",ViuTV
+https://cdn.hkdtmb.com/hls/99/index.m3u8
