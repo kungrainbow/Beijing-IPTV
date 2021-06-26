@@ -178,7 +178,7 @@ http://192.168.1.2:23234/rtp/239.3.1.102:8001
 http://192.168.1.2:23234/rtp/239.3.1.132:8012
 #EXTINF:-1 tvg-name="东方卫视",东方卫视[高清]
 http://192.168.1.2:23234/rtp/239.3.1.136:8032
-#EXTINF:-1 tvg-name="浙江卫视",tvg-logo="https://github.com/kungrainbow/Beijing-IPTV/blob/master/zhe_jiang_tv.png",group-title="",浙江卫视
+#EXTINF:-1 tvg-name="浙江卫视",tvg-logo="https://github.com/kungrainbow/Beijing-IPTV/raw/master/zhe_jiang_tv.png",group-title="",浙江卫视
 http://192.168.1.2:23234/rtp/239.3.1.137:8036
 #EXTINF:-1 tvg-name="江苏卫视",江苏卫视[高清]
 http://192.168.1.2:23234/rtp/239.3.1.135:8028
